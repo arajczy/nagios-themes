@@ -27,7 +27,7 @@
 }
 .infoMessage {
   font-size: 9pt;
-  background-color: var(--color-sunbeam-yellow);
+  background-color: var(--color-sunset-yellow);
   border: 1px solid var(--color-border-grey);
   color: var(--color-alt-text);
   margin: 40 20% 0 20%;
